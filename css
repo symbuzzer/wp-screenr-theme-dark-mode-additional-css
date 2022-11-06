@@ -1,0 +1,85 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ffffff;
+    background: #000000;
+  }
+  a {
+    color: #ffffff;
+  }
+	  h2 {
+    color: #ffffff;
+  }
+	  h1 {
+    color: #ffffff;
+  }
+		h5 {
+    color: #ffffff;
+  }
+		h5 a {
+    color: #ffffff;
+  }
+		h4 {
+    color: #ffffff;
+  }
+		h4 a {
+    color: #ffffff;
+  }
+		h3 {
+    color: #ffffff;
+  }
+		h3 a {
+    color: #ffffff;
+  }
+.entry-meta {
+    color: #ffffff;
+  }
+.entry-meta a {
+    color: #ffffff;
+  }
+.entry-meta a:hover {
+    color: #6f6f6f;
+  }
+.entry-title {
+    color: #ffffff;
+  }
+.entry-title a {
+    color: #ffffff;
+  }
+.entry-title a:hover {
+    color: #6f6f6f;
+  }
+.nav-menu.nav-menu-mobile a{
+		background: #000000;
+    color: #ffffff;
+  }
+.nav-menu.nav-menu-mobile a:hover{
+    color: #6f6f6f;
+  }
+input[type=submit] {
+    color: #000000;
+  }
+::selection {
+  color: black;
+  background: white;
+}
+	.page-header {
+  background: black;
+  }
+}	
+@media (prefers-color-scheme: light) {
+a {
+    color: #6f6f6f;
+}
+	.site-footer .site-info {
+		color: black;
+  background: white;
+  }
+
+input[type=submit] {
+    color: #6f6f6f;
+  }
+::selection {
+  color: white;
+  background: black;
+}
+}
