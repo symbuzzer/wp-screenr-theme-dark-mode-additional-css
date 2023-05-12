@@ -1,7 +1,7 @@
 # Wordpress Screenr theme unofficial dark mode additional CSS codes  
   
-HOW TO USE:  
--Copy codes from CSS file and paste it WP Admin Panel > Themes > Personelization > Additional CSS  
+## HOW TO USE:  
+- Copy codes from CSS file and paste it WP Admin Panel > Themes > Personelization > Additional CSS  
   
-NOTES:   
--Dont forget to enable/disable dark mode when testing/debugging  
+## NOTES:   
+- Dont forget to enable/disable dark mode when testing/debugging  
